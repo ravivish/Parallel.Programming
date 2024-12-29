@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Parallel.Programming
-build_property.ProjectDir = C:\Projects\Parallel.Programming\Parallel.Programming\
+build_property.ProjectDir = D:\Dev\Parallel.Programming\Parallel.Programming\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
